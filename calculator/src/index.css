@@ -1,0 +1,15 @@
+body{
+  background: linear-gradient(
+    360deg,
+    #f7f5fc 0%,
+    #f7f5fc 75%,
+    #ffffff 75%);
+  /* background-image: url(../src/images/stage.jpg); */
+  background-size:cover;
+
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
