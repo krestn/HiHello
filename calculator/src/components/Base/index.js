@@ -1,6 +1,4 @@
 import './Base.css'
-import Button from '../Button'
-import Screen from '../Screen'
 
 
 
